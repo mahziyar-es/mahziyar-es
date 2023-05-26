@@ -16,6 +16,7 @@ skilled in frontend language and technologies like:
 - React
 - Next 
 - Vue
+- Typescript
 - Tailwindcss
 - Sass
 - PWA
