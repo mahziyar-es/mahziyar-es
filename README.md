@@ -1,16 +1,28 @@
 ### Hi there 👋
-
+    
 <!--
 **mahziyar-es/mahziyar-es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+  
+I am a full stack web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+skilled in backend language and technologies like:
+- Laravel
+- Django
+- Django rest framework
+- Node
+- Express
+- Socket.io
+- mysql 
+- mongodb and mongoose
+
+skilled in frontend language and technologies like:
+- React
+- Next 
+- Vue
+- Tailwindcss
+- Sass
+- PWA
+
+i'm also an enthusiast in AI fields. currently working on Neural networks and deep learning. 
